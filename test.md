@@ -34,7 +34,7 @@ Contact the author: <https://lightco.in/contact>
 - [License](#license)  
 - [References](#references)  
 
-<h2 id="acknowledgements">## Acknowledgements<h2>
+<h2 id="acknowledgements">## Acknowledgements</h2>
   
 [↩](#toc)
 
@@ -44,7 +44,7 @@ The author also thanks the following individuals for answering questions, provid
 
 Please note that inclusion in this acknowledgements section should not be interpreted as an endorsement of the contents of this report. Any claims, conclusions, opinions, errors, _et cetera_ belong to the author alone, unless explicitly stated otherwise.
   
-<h2 id="preface">## Preface<h2>
+<h2 id="preface">## Preface</h2>
 [↩](#toc)
 
 Ever since Satoshi Nakamoto first publicly announced bitcoin, its supporters, critics, and skeptics alike have questioned how the protocol would scale as usage increases over time. This question is more important than ever today, as blocks are increasingly full or close to full of transactions. So-called "Layer 2" (L2) protocols such as the Lightning Network have been deployed to take some transaction volume "offchain" but even Lightning needs to use _some_ bitcoin block space. It's clear that as bitcoin is adopted by more and more of the world's population (human and machine alike!) more block space will be needed. Another thread of inquiry concerns whether bitcoin's limited scripting capabilities help or hinder its value as electronic cash. Researchers and inventors have shown that the electronic cash transactions first made possible by bitcoin could be given new form by improving transaction privacy, supporting new types of smart contracts, and even creating entirely new blockchain-based assets.
