@@ -15,8 +15,8 @@ Contact the author: <https://lightco.in/contact>
 
 ## Table of contents <sup id="toc"></sup>
 
-- [Acknowledgements](#acknowledgements)  
-- [Preface](#preface)  
+- [Acknowledgements](#Acknowledgements)  
+- [Preface](#Preface)  
 - [Section 0. The history and prehistory of validity rollups](#section-0-the-history-and-prehistory-of-validity-rollups)  
 - [Section 1. An introduction to validity rollups](#section-1-an-introduction-to-validity-rollups)  
 - [Section 2. The validity rollup user experience](#section-2-the-validity-rollup-user-experience)  
