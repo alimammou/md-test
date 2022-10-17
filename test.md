@@ -15,7 +15,7 @@ Contact the author: <https://lightco.in/contact>
 
 ## Table of contents <sup id="toc"></sup>
 
-- [Acknowledgements](#acknowledgements) [^acknowledgements] 
+- [Acknowledgements](#acknowledgements)
 - [Preface](#preface)  
 - [Section 0. The history and prehistory of validity rollups](#section-0-the-history-and-prehistory-of-validity-rollups)  
 - [Section 1. An introduction to validity rollups](#section-1-an-introduction-to-validity-rollups)  
@@ -33,8 +33,8 @@ Contact the author: <https://lightco.in/contact>
 - [Appendix F. Mitigating harm from compromised cryptographic proof protocols and toxic waste](#appendix-f-mitigating-harm-from-compromised-cryptographic-proof-protocols-and-toxic-waste)  
 - [License](#license)  
 - [References](#references)  
-[^acknowledgements]:
-## Acknowledgements
+
+<h2 id="acknowledgements">## Acknowledgements<h2>
 [↩](#toc)
 
 This report is the product of the author's participation in the Human Rights Foundation's [ZK-Rollup Research Fellowship](https://hrf.org/zkrollups). Financial support for the ZK-Rollup Research Fellowship was provided by Starkware and CMS Holdings. The author thanks these organizations for their support.
