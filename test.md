@@ -35,6 +35,7 @@ Contact the author: <https://lightco.in/contact>
 - [References](#references)  
 
 <h2 id="acknowledgements">## Acknowledgements<h2>
+  
 [↩](#toc)
 
 This report is the product of the author's participation in the Human Rights Foundation's [ZK-Rollup Research Fellowship](https://hrf.org/zkrollups). Financial support for the ZK-Rollup Research Fellowship was provided by Starkware and CMS Holdings. The author thanks these organizations for their support.
