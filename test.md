@@ -15,8 +15,8 @@ Contact the author: <https://lightco.in/contact>
 
 ## Table of contents <sup id="toc"></sup>
 
-- [Acknowledgements](#Acknowledgements)  
-- [Preface](#Preface)  
+- [Acknowledgements](#acknowledgements)  
+- [Preface](#preface)  
 - [Section 0. The history and prehistory of validity rollups](#section-0-the-history-and-prehistory-of-validity-rollups)  
 - [Section 1. An introduction to validity rollups](#section-1-an-introduction-to-validity-rollups)  
 - [Section 2. The validity rollup user experience](#section-2-the-validity-rollup-user-experience)  
@@ -35,7 +35,7 @@ Contact the author: <https://lightco.in/contact>
 - [References](#references)  
 
 ## Acknowledgements
-[↩](#toc)
+[↩](#acknowledgements)
 
 This report is the product of the author's participation in the Human Rights Foundation's [ZK-Rollup Research Fellowship](https://hrf.org/zkrollups). Financial support for the ZK-Rollup Research Fellowship was provided by Starkware and CMS Holdings. The author thanks these organizations for their support.
 
@@ -44,7 +44,7 @@ The author also thanks the following individuals for answering questions, provid
 Please note that inclusion in this acknowledgements section should not be interpreted as an endorsement of the contents of this report. Any claims, conclusions, opinions, errors, _et cetera_ belong to the author alone, unless explicitly stated otherwise.
 
 ## Preface
-[↩](#toc)
+[↩](#preface)
 
 Ever since Satoshi Nakamoto first publicly announced bitcoin, its supporters, critics, and skeptics alike have questioned how the protocol would scale as usage increases over time. This question is more important than ever today, as blocks are increasingly full or close to full of transactions. So-called "Layer 2" (L2) protocols such as the Lightning Network have been deployed to take some transaction volume "offchain" but even Lightning needs to use _some_ bitcoin block space. It's clear that as bitcoin is adopted by more and more of the world's population (human and machine alike!) more block space will be needed. Another thread of inquiry concerns whether bitcoin's limited scripting capabilities help or hinder its value as electronic cash. Researchers and inventors have shown that the electronic cash transactions first made possible by bitcoin could be given new form by improving transaction privacy, supporting new types of smart contracts, and even creating entirely new blockchain-based assets.
 
